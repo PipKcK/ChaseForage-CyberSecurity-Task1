@@ -100,4 +100,4 @@ def visual_custom(df, step):
     plt.axis('equal')
     plt.title(f'Pie Chart for Step {step}')
     plt.show()
-    return ''
+    return 'The pie charts purpose in this context is to provide a visual representation of the proportional distribution of different types within a specific step.'
